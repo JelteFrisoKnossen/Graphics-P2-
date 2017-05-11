@@ -1,0 +1,7 @@
+D:\Documents\Solutions_VisualStudio\P2_Graphics\bin\Debug\template.exe.config
+D:\Documents\Solutions_VisualStudio\P2_Graphics\bin\Debug\template.exe
+D:\Documents\Solutions_VisualStudio\P2_Graphics\bin\Debug\template.pdb
+D:\Documents\Solutions_VisualStudio\P2_Graphics\bin\Debug\OpenTK.dll
+D:\Documents\Solutions_VisualStudio\P2_Graphics\obj\Debug\template.csprojResolveAssemblyReference.cache
+D:\Documents\Solutions_VisualStudio\P2_Graphics\obj\Debug\template.exe
+D:\Documents\Solutions_VisualStudio\P2_Graphics\obj\Debug\template.pdb
